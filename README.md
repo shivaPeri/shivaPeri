@@ -1,5 +1,5 @@
 ### Hi there 👋
-check out some of my works [here](https://shivaperi.github.io/)
+check out some of my works [here](https://shivaperi.com/)
 
 <!--
 **shivaPeri/shivaPeri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
