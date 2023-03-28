@@ -1,5 +1,11 @@
 ### Hi there 👋
-check out some of my works [here](https://shivaperi.com/)
+check out some of my works here ->
+[website](https://shivaperi.com/)
+| [youtube](https://www.youtube.com/channel/UC1tqt3jHvREW2cAbai1qGzg)
+| [p5](https://editor.p5js.org/coolbeans/sketches/)
+| [glitch](https://glitch.com/@coolbeans)
+| [observable](https://observablehq.com/@shivaperi?tab=profile)
+| [thingiverse](https://www.thingiverse.com/usbtypeme/designs)
 
 <!--
 **shivaPeri/shivaPeri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
