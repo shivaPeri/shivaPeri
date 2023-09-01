@@ -1,4 +1,4 @@
-<img src="https://github.com/shivaPeri/shapely-demos/blob/main/tiling/output/tiling_3/tiling_liked_7.svg"/>
+<img src="https://github.com/shivaPeri/shapely-demos/blob/main/tiling/output/tiling_3/tiling_liked_7.svg" width="600"/>
 
 ### Hi there 😎
 check out some of my works here ->
