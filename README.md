@@ -1,4 +1,6 @@
-### Hi there 👋
+<img src="https://github.com/shivaPeri/shapely-demos/blob/main/tiling/output/tiling_3/tiling_liked_7.svg"/>
+
+### Hi there 😎
 check out some of my works here ->
 [website](https://shivaperi.com/)
 | [youtube](https://www.youtube.com/channel/UC1tqt3jHvREW2cAbai1qGzg)
